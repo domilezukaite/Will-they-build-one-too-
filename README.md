@@ -28,25 +28,28 @@ The film supports SDG 13 by raising awareness of climate change and encouraging 
 
 ## Watch the film
 
-- **YouTube:** [Add your public or unlisted video link]
-- **MP4:** [Add the link to the film in this repository]
-
+- **YouTube:** https://youtu.be/mAOLVUL8Pac?is=7xlkZZBgcpm57DBZ
+- 
 ## How we created it
 
-1. Z-Image Turbo generated the still images inside ComfyUI.
-2. Wan 2.2 animated the selected images inside ComfyUI.
-3. A montage combined still images to show time passing.
-4. Editing brought the clips together with text and sound.
+1. **Z-Image Turbo:** generated the still images in ComfyUI.
+2. **MiniMax H3 i2V:** turned the images into video clips.
+3. **ElevenLabs:** generated the narration.
+4. **Claude Code:** helped edit and combine the clips into the final film.
 
-## How to run the workflow
+**Final output:** a 53-second horizontal film and the ComfyUI workflow file.
 
-1. Install and open ComfyUI.
-2. Download the workflow JSON from this repository.
-3. Install the models and custom nodes required by the workflow.
-4. Load the JSON into ComfyUI.
-5. Use the saved prompts and settings to regenerate the shots.
+## How to run it
 
-See the shot list for each shot’s duration, description, prompt, and reference frame.
+To watch the film, open the YouTube link.
+
+To recreate it:
+1. Open ComfyUI and load our exported workflow JSON.
+2. Install the required models and nodes, then generate the images using the saved prompts and settings.
+3. Generate the video clips with MiniMax H3 i2V and the narration with ElevenLabs.
+4. Use the editing scripts and instructions from our project to assemble the final film.
+
+The ComfyUI workflow alone does not recreate the complete film.
 
 **Workflow file:** [Add the workflow JSON link]
 
