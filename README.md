@@ -83,7 +83,7 @@ KNMI explains that warming reduces the number of days cold enough for snow in th
 - Final film- https://youtu.be/mAOLVUL8Pac?is=7xlkZZBgcpm57DBZ
 - ComfyUI workflow JSON
 - Storyboard and shot list- https://app.milanote.com/1XaakZ1y0AsS91?p=x5kVnrXH7Bl
-- Presentation
+- Presentation- https://canva.link/3tjvy1kf7nfe0kx
 
 
   
