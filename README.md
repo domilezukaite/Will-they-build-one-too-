@@ -53,8 +53,14 @@ The ComfyUI workflow alone does not recreate the complete film.
 
 **Workflow file:** [Add the workflow JSON link]
 
-**Required models and custom nodes:** [List the exact versions used]
+**Required models and custom nodes:** 
+The project uses the standard ComfyUI template workflows with the following models:
 
+- Z-Image Turbo — Text-to-Image generation
+- MiniMax H3 — Image-to-Video generation
+- Qwen 2.1 — Text/Image-Edit-Image workflow
+
+No additional custom nodes were used beyond those required by the standard ComfyUI template workflows.
 ## Who did what?
 
 Majed al-Sakkaf and I brainstormed the concept together. Majed handled the main technical production, including the ComfyUI workflow and generating the film’s visuals. I wrote the storyboard and created the presentation.
